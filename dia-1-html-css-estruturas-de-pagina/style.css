@@ -1,0 +1,21 @@
+#foto-linux {
+    float:center;
+    top: 1000px;
+    border-radius: 100%;
+    width: 200px
+    position: absolute;
+}
+.fotos {
+display:flow-root;
+
+}
+
+#foto-git{
+    border-radius: 100%;
+    width: 200px
+}
+  
+#foto-css {
+    border-radius: 100%;
+    width: 200px
+}
